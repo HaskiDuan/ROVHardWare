@@ -1,6 +1,17 @@
 # Prerequisites
 *.d
 
+# Compressed files
+*.rar
+
+# Project Output
+Project Outputs for*
+Project Logs for*
+__Previews
+History
+DWG
+
+
 # Object files
 *.o
 *.ko
