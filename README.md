@@ -57,5 +57,5 @@ $ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-
 $ chmod a+x gh-md-toc
 ```
 
-使用Usage
+使用 Usage
 =====
