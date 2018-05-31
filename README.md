@@ -36,7 +36,7 @@ Harbin Institute of Technology Unmanned Aerial Vehicel Laboratory ROV project-`R
 <!--ts-->
    * [gh-md-toc](#gh-md-toc)
    * [Table of contents](#目录table-of-contents)
-   * [Installation-安装](#installation)
+   * [Installation 安装](#installation)
    * [使用Usage](#usage)
       * [STDIN](#stdin)
       * [Local files](#local-files)
@@ -49,7 +49,7 @@ Harbin Institute of Technology Unmanned Aerial Vehicel Laboratory ROV project-`R
 <!--te-->
 
 
-安装 Installation
+Installation 安装
 ============
 
 ```bash
