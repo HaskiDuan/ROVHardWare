@@ -35,8 +35,8 @@ Harbin Institute of Technology Unmanned Aerial Vehicel Laboratory ROV project-`R
 
 <!--ts-->
    * [gh-md-toc](#gh-md-toc)
-   * [目录 Table of contents](#目录table-of-contents)
-   * [安装 Installation](#installation)
+   * [Table of contents](#目录table-of-contents)
+   * [Installation-安装](#installation)
    * [使用Usage](#usage)
       * [STDIN](#stdin)
       * [Local files](#local-files)
