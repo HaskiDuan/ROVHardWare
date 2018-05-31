@@ -3,6 +3,7 @@
 
 # Compressed files
 *.rar
+*.zip
 
 # Project Output
 Project Outputs for*
@@ -10,7 +11,7 @@ Project Logs for*
 __Previews
 History
 DWG
-
+*.OutJob
 
 # Object files
 *.o
