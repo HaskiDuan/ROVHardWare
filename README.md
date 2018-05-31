@@ -1,1 +1,3 @@
-# ROVHardWare
+# ROVHardware 哈尔滨工业大学无人机创新实验室水下无人机项目——硬件系统
+
+
