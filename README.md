@@ -36,8 +36,8 @@ Harbin Institute of Technology Unmanned Aerial Vehicel Laboratory ROV project-`R
 <!--ts-->
    * [gh-md-toc](#gh-md-toc)
    * [目录 Table of contents](#目录table-of-contents)
-   * [Installation](#installation)
-   * [Usage](#usage)
+   * [安装 Installation](#installation)
+   * [使用Usage](#usage)
       * [STDIN](#stdin)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
@@ -49,7 +49,7 @@ Harbin Institute of Technology Unmanned Aerial Vehicel Laboratory ROV project-`R
 <!--te-->
 
 
-Installation
+安装 Installation
 ============
 
 ```bash
@@ -57,5 +57,5 @@ $ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-
 $ chmod a+x gh-md-toc
 ```
 
-Usage
+使用Usage
 =====
