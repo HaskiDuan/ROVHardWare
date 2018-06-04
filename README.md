@@ -1,7 +1,7 @@
 # ROVHardware 
-![](https://img.shields.io/badge/build-passing-green.svg)
-![](https://img.shields.io/badge/ROV--build-v0.1.1-blue.svg)
-![](https://img.shields.io/badge/status-open-green.svg)
+![](https://img.shields.io/badge/build-passing-green.svg)         
+![](https://img.shields.io/badge/ROV--build-v0.1.1-blue.svg)         
+![](https://img.shields.io/badge/status-open-green.svg)   
 哈尔滨工业大学无人机创新实验室水下无人机项目——`水下无人机硬件系统`    
 Harbin Institute of Technology Unmanned Aerial Vehicel Laboratory ROV project-`ROV hardware system`
 
