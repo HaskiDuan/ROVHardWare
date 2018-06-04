@@ -1,12 +1,12 @@
-# ROVHardware 
+# 水下无人机硬件系统 ROVHardware 
 ![](https://img.shields.io/badge/build-passing-green.svg)        ![](https://img.shields.io/badge/ROV--build-v0.1.1-blue.svg)        ![](https://img.shields.io/badge/status-open-green.svg)   
 哈尔滨工业大学无人机创新实验室水下无人机项目——`水下无人机硬件系统`    
 Harbin Institute of Technology Unmanned Aerial Vehicel Laboratory ROV project-`ROV hardware system`
 
-|Maintainer|段士奇|郑晓丰（负责人）
-|---|---|---
-|E-mail|815832177@qq.com|494939701@qq.com
-|github|https://github.com/HaskiDuan|https://github.com/TosakaR
+|Maintainer|纪相存|段士奇|郑晓丰（负责人）
+|---|---|---|---
+|E-mail|qingkong.ji@qq.com|815832177@qq.com|494939701@qq.com
+|github|https://github.com/Qingkongji|https://github.com/HaskiDuan|https://github.com/TosakaR
 
 ****
 ## 目录 Table of Contents
