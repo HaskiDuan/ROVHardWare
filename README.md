@@ -2,9 +2,9 @@
 哈尔滨工业大学无人机创新实验室水下无人机项目——`水下无人机硬件系统`    
 Harbin Institute of Technology Unmanned Aerial Vehicel Laboratory ROV project-`ROV hardware system`
 
-|Author|段士奇|
-|---|---
-|E-mail|815832177@qq.com
+|Author|段士奇|郑晓丰（负责人）
+|---|---|---
+|E-mail|815832177@qq.com|494939701@qq.com
 
 ****
 ## 目录 Table of Contents
@@ -21,7 +21,8 @@ Harbin Institute of Technology Unmanned Aerial Vehicel Laboratory ROV project-`R
 ***
 
 ## 介绍 Introduction
-该仓库为哈尔滨工业大学无人机创新实验室水下无人机项目的硬件系统电路仓库，包含了水下无人机各部分的硬件电路的Auto Designer工程。
+该仓库为哈尔滨工业大学无人机创新实验室水下无人机项目的硬件系统电路仓库，包含了水下无人机各部分的硬件电路的Auto Designer 14工程。  
+This repository is the HIT UAV-Lab Remotely operated vehicle(ROV) hardware system circuit repository, it includes the Auto Designer projects for all parts of the ROV hardware.
 ## 分电板 Eletric transfer plate
 水下无人机分电板可分出X路接口以供使用
 ## 地面站主板 Ground station board
